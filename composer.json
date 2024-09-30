@@ -3,6 +3,14 @@
     "license": "MIT",
     "type": "project",
     "description": "OpenAPI-Symfony Demo Application",
+    "authors": [
+        {
+            "name": "Maxim Antipin",
+            "email": "max.v.antipin@gmail.com",
+            "homepage": "https://github.com/max-antipin",
+            "role": "Developer"
+        }
+    ],
     "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
